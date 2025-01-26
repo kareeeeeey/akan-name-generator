@@ -17,7 +17,7 @@ To make advancements/modifications, follow these steps:
 - Create a new branch 
 - Make the appropriate changes in the files
 - Add changes made
-- Commit your changes 
+- Commit your changes
 - Push to the branch 
 - Create a Pull Request 
 ## Want to know your Akan name?
