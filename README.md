@@ -35,3 +35,9 @@ Should you be unable to access my web application, have any recommendations or q
 ## To-do
 1. Make web app mobile friendly
 2. Make dates valid up until the date the website is being used (i.e reject dates that are in the future)
+3. ## license
+4. 
+This project is licensed under the MIT licens. see the [LICENSE] (LICENSE.TXT) file for details.
+
+##contact
+For any questions or suggestions feel free to reach out via the projects Github repository: [Akan name generator]
